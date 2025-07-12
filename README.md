@@ -1,19 +1,37 @@
-## Hi there 👋
+# Hello there! 
 
-![just imagine a cat slamming the keyboard](assets/catcomputer.gif)
+## About me
+Hi, I’m **Sindhuja Sarabu** – a rising junior studying Information Systems at Stony Brook Univeristy. 
 
+---
 
-<!--
-**sindhujas-dev/sindhujas-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Tech Stack  
+**Languages:**  
+`Python` `JavaScript` `Java` `SQL` 
 
-Here are some ideas to get you started:
+**Frameworks & Libraries:**  
+`React` `Node.js` `Express` `Pandas` `NumPy` `scikit-learn`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Tools & Platforms:**  
+`VSCode` `Git` `GitHub` `Postman` `Azure` `MongoDB` `MySQL` `Figma` `Jupyter Notebooks`
+
+---
+
+## Projects  
+
+---
+
+## Awards & Certifications  
+- 🦅 **Eagle Scout** — Led community service project for students with learning disabilities   
+- 💻 **PCEP - Certified Python Programmer** — Gained foundational knowledge in Python syntax, lists, data types, and control structures
+
+---
+
+## Interests & Hobbies  
+- 💡 Designing technology and building solutions that improve quality of life  
+- 🧵 Crocheting  
+
+## Contact Me  
+📧 sindhuja.sarabu123@email.com  
+💼 [LinkedIn](https://www.linkedin.com/in/sindhujasarabu)  
+
