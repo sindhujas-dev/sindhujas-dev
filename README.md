@@ -2,7 +2,8 @@
 
 ## About me
 Hi, I’m **Sindhuja Sarabu** – a rising junior studying Information Systems at Stony Brook University. 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge)](https://www.linkedin.com/in/sindhujasarabu/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=plastic&logo=linkedin)](https://www.linkedin.com/in/sindhujasarabu/)
+[![Python](https://img.shields.io/badge/Python-blue?style=plastic)]
 
 
 ---
