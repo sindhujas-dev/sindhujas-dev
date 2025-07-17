@@ -1,4 +1,5 @@
 <h1 align="center">hello, sindhuja here!</h1>
+![gif](assets/typewriter-bg.gif)
 
 
 ## About Me
