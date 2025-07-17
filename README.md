@@ -1,4 +1,7 @@
-# Hello!
+<h1 align="center">hello, sindhuja here!</h1>
+
+
+## About Me
 
 I'm **Sindhuja Sarabu**, a rising junior majoring in **Information Systems**. I'm currently exploring a little bit of everything - from machine learning and AI to software development and IT. Over my high school and college experience, I've gained a strong background in CS fundamentals and full-stack development, and am now currently studying ML/AI implementations through my internship and the Break Through Tech program. With a natural curiousity in the tech world and how it can impact our lives, I've developed a passion for developing tech solutions that improve the quality of life. Long-term, I hope to work at the intersection of the tech and healthcare fields, to build tools that help people in meaningful ways. 
 
@@ -58,6 +61,14 @@ I'm **Sindhuja Sarabu**, a rising junior majoring in **Information Systems**. I'
 - **Eagle Scout** — Led a community service project to construct 8 sensory/motor skill boards for elementary students with learning disabilities
 
 ---
+
+## Extracurriculars, Hobbies, & Interests  
+- 🧶 Crocheting in my free time (especially mini plushies!)
+- 👩‍💻 Member of Women in Computer Science (WiCS) at Stony Brook
+- 🧠 Learning about tech-for-good, accessibility, and health technology
+
+---
+
 <!--
 
 ## 🚀 Featured Projects
