@@ -1,8 +1,12 @@
 <h1 align="center">hello, sindhuja here!</h1>
 
 <p align="center">
-  <img src="assets/typewriter-bg.gif" alt="Typing Animation">
+  <img src="assets/typewriter-emoji.gif" alt="Typing Animation" width=500>
 </p>
+
+<p align="center">✿────────────────────────✿────────────────────────✿────────────────────────✿</p>
+
+
 
 ## About Me
 
