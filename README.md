@@ -1,18 +1,17 @@
-<h1 align="center">hello, sindhuja here!</h1>
+<h1 align="center">hello, sindhuja here! </h1>
 
 <p align="center">
   <img src="assets/typewriter-emoji.gif" alt="Typing Animation" width=500>
 </p>
 
-<p align="center">🌸────🌿────🦢────🌸────🌿────🦢────🌸────🌿────🦢────🌸────🌿────🦢────🌸</p>
+<p align="center">🌸────🌿────🐟────🌸────🌿────🐟────🌸────🌿────🐟────🌸────🌿────🐟────🌸</p>
 
 ## About Me
+I'm **Sindhuja Sarabu**, a rising junior majoring in **Information Systems**. I'm currently exploring a little bit of everything - from machine learning and AI to software development and IT. Over my high school and college experience, I've gained a strong background in CS fundamentals and full-stack development, and am now currently studying ML/AI implementations through my internship and the Break Through Tech program. With a natural curiosity in the tech world and how it can impact our lives, I've developed a passion for developing tech solutions that improve the quality of life. Long-term, I hope to work at the intersection of the tech and healthcare fields, to build tools that help people in meaningful ways. 
 
-I'm **Sindhuja Sarabu**, a rising junior majoring in **Information Systems**. I'm currently exploring a little bit of everything - from machine learning and AI to software development and IT. Over my high school and college experience, I've gained a strong background in CS fundamentals and full-stack development, and am now currently studying ML/AI implementations through my internship and the Break Through Tech program. With a natural curiousity in the tech world and how it can impact our lives, I've developed a passion for developing tech solutions that improve the quality of life. Long-term, I hope to work at the intersection of the tech and healthcare fields, to build tools that help people in meaningful ways. 
-
-## Tech Stack
-
+## Tech Stack 
 **Languages & Scripting**  
+
 ![Python](https://img.shields.io/badge/Python-9FE2BF?style=flat&logo=python&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-89CFF0?style=flat&logo=openjdk&logoColor=black)
 ![JavaScript](https://img.shields.io/badge/JavaScript-AEE2FF?style=flat&logo=javascript&logoColor=black)
@@ -23,6 +22,7 @@ I'm **Sindhuja Sarabu**, a rising junior majoring in **Information Systems**. I'
 ![Bash](https://img.shields.io/badge/Bash-B5EAEA?style=flat&logo=gnubash&logoColor=black)
 
 **Frameworks, Libraries, & APIs**  
+
 ![Pandas](https://img.shields.io/badge/Pandas-9FE2BF?style=flat&logo=pandas&logoColor=black)
 ![NumPy](https://img.shields.io/badge/NumPy-89CFF0?style=flat&logo=numpy&logoColor=black)
 ![Scikit-Learn](https://img.shields.io/badge/ScikitLearn-AEE2FF?style=flat&logo=scikitlearn&logoColor=black)
@@ -43,6 +43,7 @@ I'm **Sindhuja Sarabu**, a rising junior majoring in **Information Systems**. I'
 ![Git](https://img.shields.io/badge/Git-89CFF0?style=flat&logo=git&logoColor=black)
 
 **Tools, Platforms, & Environments**  
+
 ![GitHub](https://img.shields.io/badge/GitHub-AEE2FF?style=flat&logo=github&logoColor=black)
 ![VS Code](https://img.shields.io/badge/VS%20Code-D6B4FC?style=flat&logo=visualstudiocode&logoColor=black)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-A2D2FF?style=flat&logo=visualstudio&logoColor=black)
@@ -113,5 +114,7 @@ Mobile app promoting better sleep using reminders and mood tracking.
 - **Email**: sindhuja.sarabu123@gmail.com  
 - **LinkedIn**: [linkedin.com/in/sindhujasarabu](https://www.linkedin.com/in/sindhujasarabu)  
 
----
-
+<h1 align="center"> 
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Monkey%20Face.png" alt="Monkey Face" width="75" height="75" "/> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Green%20Heart.png" alt="Green Heart" width="75" height="75" />
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Woman%20Raising%20Hand.png" alt="Woman Raising Hand" width="75" height="75" /> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Person%20in%20Bed.png" alt="Person in Bed" width="75" height="75" /> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Cat.png" alt="Cat" width="75" height="75" /> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="75" height="75" /> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Woman%20Dancing.png" alt="Woman Dancing" width="75" height="75" /> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Teacup%20Without%20Handle.png" alt="Teacup Without Handle" width="75" height="75" /> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Teddy%20Bear.png" alt="Teddy Bear" width="75" height="75" /> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Automobile.png" alt="Automobile" width="75" height="75" /> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Hand%20Over%20Mouth.png" alt="Face with Hand Over Mouth" width="75" height="75" /> 
+</h1>
