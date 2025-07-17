@@ -1,6 +1,8 @@
 <h1 align="center">hello, sindhuja here!</h1>
-![gif](assets/typewriter-bg.gif)
 
+<p align="center">
+  <img src="assets/typewriter-bg.gif" alt="Typing Animation">
+</p>
 
 ## About Me
 
