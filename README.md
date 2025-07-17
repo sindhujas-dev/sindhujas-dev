@@ -1,5 +1,12 @@
 # Hello there! ![waving gif](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)
 
+<p align="left">
+  I'm Sindhuja Sarabu, a rising junior in Information Systems who loves tech-for-good work.
+</p>
+<p align="right">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="100"/>
+</p>
+
 <!-- I'm **Sindhuja Sarabu**, a rising junior majoring in **Information Systems**. I'm passionate about using **tech for social good** — especially in accessibility, mental health, and education. From AI-driven tools to full-stack apps, I love building things that actually help people.  -->
 
 I'm <span style="color:#0000FF"><strong>Sindhuja Sarabu</strong></span>, a rising junior majoring in <strong>Information Systems</strong>.
