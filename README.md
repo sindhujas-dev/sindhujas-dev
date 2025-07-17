@@ -4,15 +4,11 @@
   <img src="assets/typewriter-emoji.gif" alt="Typing Animation" width=500>
 </p>
 
-<p align="center">✿────────────────────────✿────────────────────────✿────────────────────────✿</p>
-
-
+<p align="center">🌸────🌿────🦢────🌸────🌿────🦢────🌸────🌿────🦢────🌸────🌿────🦢────🌸</p>
 
 ## About Me
 
 I'm **Sindhuja Sarabu**, a rising junior majoring in **Information Systems**. I'm currently exploring a little bit of everything - from machine learning and AI to software development and IT. Over my high school and college experience, I've gained a strong background in CS fundamentals and full-stack development, and am now currently studying ML/AI implementations through my internship and the Break Through Tech program. With a natural curiousity in the tech world and how it can impact our lives, I've developed a passion for developing tech solutions that improve the quality of life. Long-term, I hope to work at the intersection of the tech and healthcare fields, to build tools that help people in meaningful ways. 
-
----
 
 ## Tech Stack
 
@@ -59,22 +55,16 @@ I'm **Sindhuja Sarabu**, a rising junior majoring in **Information Systems**. I'
 ![Figma](https://img.shields.io/badge/Figma-D6B4FC?style=flat&logo=figma&logoColor=black)
 ![UML](https://img.shields.io/badge/UML-A2D2FF?style=flat&logo=diagramsdotnet&logoColor=black)
 
----
-
 ## Awards & Certifications
 
 - **PCEP - Certified Python Programmer** — Python Institute certification for foundational Python programming including data types, error handling, functions, and control flow
 - **Machine Learning Foundations Certificate (In Progress)** — Pursuing a ML certification through Cornell Tech's Break Through Tech program, focused on ML models, core pipelines, and real-world AI applications
 - **Eagle Scout** — Led a community service project to construct 8 sensory/motor skill boards for elementary students with learning disabilities
 
----
-
 ## Extracurriculars, Hobbies, & Interests  
 - 🧶 Crocheting in my free time (especially mini plushies!)
 - 👩‍💻 Member of Women in Computer Science (WiCS) at Stony Brook
 - 🧠 Learning about tech-for-good, accessibility, and health technology
-
----
 
 <!--
 
@@ -118,7 +108,6 @@ Mobile app promoting better sleep using reminders and mood tracking.
 ---
 
 -->
-
 ## Let's Connect!  
 
 - **Email**: sindhuja.sarabu123@gmail.com  
