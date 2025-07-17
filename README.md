@@ -75,7 +75,7 @@ With a natural curiosity in how tech shapes the world around us, I've developed 
 - **Eagle Scout** — Led a community service project to construct 8 sensory/motor skill boards for elementary students with learning disabilities
 
 ## Extracurriculars, Hobbies, & Interests  
-- ⚙️ Break Through Tech AI Program
+- ⚙️ Fellow of the Break Through Tech AI Program
 - 🧶 Crocheting in my free time (especially mini plushies!)
 - 👩‍💻 Member of Women in Computer Science (WiCS) at Stony Brook
 - 🧠 Learning about tech-for-good, accessibility, and health technology
