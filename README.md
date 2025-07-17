@@ -16,7 +16,7 @@ With a natural curiosity in how tech shapes the world around us, I've developed 
 - I was recently selected to participate in the Break Through Tech AI program, where I’m gaining hands-on experience with machine learning and AI concepts covering the full ML pipeline — from data preprocessing and model evaluation to deep learning and neural networks. It’s been an incredible opportunity to connect with my peers and apply what I’m learning through engaging labs and projects!
 
 💼 Software Engineering Intern @ [NuCulture](https://www.nuculture.us/)
-- I'm grateful to be gaining hands-on experience in software development and AI this summer at NuCulture. My work at the company involves implementing machine learning models, LLM-based rules, and AI-driven classification systems to support the company's accounting platform and help deliver web applications to clients.
+- I'm grateful to be gaining hands-on experience in software development and AI this summer at NuCulture! My work at the company involves implementing machine learning models, LLM-based rules, and AI-driven classification systems to support the company's accounting platform and help deliver web applications to clients.
 
 🎨 Yarn Color Recommendation System (Personal ML Project)
 - As I continue developing my skills in ML and AI, I've started a mini personal project to build a computer vision model that analyzes yarn images and recommends similar color palettes for crocheters. By combining image preprocessing technqieus with KMeans clustering, the system will identify dominant colors and generate palette suggestions for specific crochet projects. Check out my progress [here!](https://github.com/sindhujas-dev/yarn-color-recommender)
@@ -74,54 +74,12 @@ With a natural curiosity in how tech shapes the world around us, I've developed 
 - **Machine Learning Foundations Certificate (In Progress)** — Pursuing a ML certification through Cornell Tech's Break Through Tech program, focused on ML models, core pipelines, and real-world AI applications
 - **Eagle Scout** — Led a community service project to construct 8 sensory/motor skill boards for elementary students with learning disabilities
 
-## Extracurriculars, Hobbies, & Interests  
+## Extracurriculars & Interests  
 - ⚙️ Fellow of the Break Through Tech AI Program
 - 🧶 Crocheting in my free time (especially mini plushies!)
 - 👩‍💻 Member of Women in Computer Science (WiCS) at Stony Brook
 - 🧠 Learning about tech-for-good, accessibility, and health technology
 
-<!--
-
-## 🚀 Featured Projects
-
-🔹 **Yarn Color Recommender (2025)**  
-A Python ML project that suggests color palettes for yarn based on image input.  
-> **Tools**: KMeans, OpenCV, Matplotlib, Pillow  
-[🔗 GitHub Repo](#) | [🎨 Try it](#)
-
-🔹 **Phreddit - A Reddit Clone**  
-Full-stack clone with custom post types, community moderation, and authentication.  
-> **Stack**: ReactJS, Node.js, Express.js, MongoDB  
-[🔗 GitHub Repo](#)
-
-🔹 **SleepWell: AI App for Student Wellness**  
-Mobile app promoting better sleep using reminders and mood tracking.  
-> **Built with**: Unity, Figma  
-[🔗 GitHub Repo](#)
-
-📌 *Pinned*: My [Fall AI Studio project](#) from Break Through Tech AI @ Cornell Tech  
-
----
-
-
-
-## 💡 Interests & Hobbies  
-
-- 💬 Exploring ways AI can enhance accessibility and education  
-- 🧵 Crocheting little animals and accessories  
-- 📈 Creating visualizations to make complex data digestible  
-- 🧩 Building small tools that simplify everyday tasks  
-
----
-
-## 📊 GitHub Stats  
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sindhujasarabu&show_icons=true&theme=default&count_private=true&hide_title=true)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sindhujasarabu&layout=compact&hide_title=true)
-
----
-
--->
 ## Let's Connect!  
 
 - **Email**: sindhuja.sarabu123@gmail.com  
