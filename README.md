@@ -7,13 +7,15 @@ I'm **Sindhuja Sarabu**, a rising junior majoring in **Information Systems**. I'
 ## 🧠 Tech Stack
 
 **Languages**  
+
 ![Python](https://img.shields.io/badge/Python-blue?style=flat-square&logo=python)
 ![Java](https://img.shields.io/badge/Java-red?style=flat-square&logo=openjdk)
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=flat-square&logo=javascript)
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql)
 
-**Frameworks & Libraries**  #4479A1
+**Frameworks & Libraries** 
+
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=black)
@@ -23,15 +25,21 @@ I'm **Sindhuja Sarabu**, a rising junior majoring in **Information Systems**. I'
 ![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21F?style=flat-square&logo=huggingface&logoColor=black)
 
 **Tools & Platforms**  
-![Git](https://img.shields.io/badge/Git-blue?style=flat-square)
-![GitHub](https://img.shields.io/badge/GitHub-blue?style=flat-square)
-![VSCode](https://img.shields.io/badge/VS%20Code-blue?style=flat-square)
-![Azure](https://img.shields.io/badge/Azure-blue?style=flat-square)
-![MySQL](https://img.shields.io/badge/MySQL-blue?style=flat-square)
-![Jupyter](https://img.shields.io/badge/Jupyter%20Notebook-blue?style=flat-square)
-![Plaid](https://img.shields.io/badge/Plaid%20API-blue?style=flat-square)
-![Traycer](https://img.shields.io/badge/Traycer%20AI-blue?style=flat-square)
-![Cursor](https://img.shields.io/badge/Cursor%20AI-blue?style=flat-square)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0089D6?style=flat-square&logo=microsoftazure&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![Plaid API](https://img.shields.io/badge/Plaid-000000?style=flat-square&logo=plaid&logoColor=white)
+![Traycer AI](https://img.shields.io/badge/Traycer%20AI-6E56CF?style=flat-square&logo=codeforces&logoColor=white)
+![Cursor AI](https://img.shields.io/badge/Cursor%20AI-3B3B3B?style=flat-square&logo=cursor&logoColor=white)
+
+![Flat](https://img.shields.io/badge/Python-blue?style=flat&logo=python)
+![Flat Square](https://img.shields.io/badge/Python-blue?style=flat-square&logo=python)
+![For the Badge](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
+![Plastic](https://img.shields.io/badge/Python-blue?style=plastic&logo=python)
+![Social](https://img.shields.io/badge/Python-blue?style=social&logo=python)
 
 ---
 
