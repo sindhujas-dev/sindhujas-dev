@@ -7,7 +7,9 @@
 <p align="center">🌸────🌿────🐟────🌸────🌿────🐟────🌸────🌿────🐟────🌸────🌿────🐟────🌸</p>
 
 ## About Me
-I'm **Sindhuja Sarabu**, a rising junior majoring in **Information Systems**. I'm currently exploring a little bit of everything - from machine learning and AI to software development and IT. Over my high school and college experience, I've gained a strong background in CS fundamentals and full-stack development, and am now currently studying ML/AI implementations through my internship and the Break Through Tech program. With a natural curiosity in how tech shapes the world around us, I've developed a passion for developing tech solutions that make big impacts - especially in accessibility and health. Long-term, I hope to work at the intersection of the tech and healthcare fields, creating tools that meaningfully support and empower people. 
+I'm **Sindhuja Sarabu**, a rising junior majoring in **Information Systems**. I'm currently exploring a little bit of everything - from machine learning and AI to software development and IT. Over my high school and college experience, I've gained a strong background in CS fundamentals and full-stack development, and am now currently studying ML/AI implementations through my internship at NuCulture and Cornell Tech's Break Through Tech program. 
+
+With a natural curiosity in how tech shapes the world around us, I've developed a passion for developing tech solutions that make big impacts - especially in accessibility and health. Long-term, I hope to work at the intersection of the tech and healthcare fields, creating tools that meaningfully support and empower people. 
 
 ## Tech Stack 
 **Languages & Scripting**  
