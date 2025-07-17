@@ -1,29 +1,17 @@
-# Hello there! ![waving gif](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)
+# Hello!
 
-<p align="left">
-  I'm Sindhuja Sarabu, a rising junior in Information Systems who loves tech-for-good work.
-</p>
-<p align="right">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="100"/>
-</p>
-
-<!-- I'm **Sindhuja Sarabu**, a rising junior majoring in **Information Systems**. I'm passionate about using **tech for social good** — especially in accessibility, mental health, and education. From AI-driven tools to full-stack apps, I love building things that actually help people.  -->
-
-I'm <span style="color:#0000FF"><strong>Sindhuja Sarabu</strong></span>, a rising junior majoring in <strong>Information Systems</strong>.
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/sindhujasarabu/)  
-📫 Reach me at: sindhuja.sarabu123@email.com
+I'm **Sindhuja Sarabu**, a rising junior majoring in **Information Systems**. I'm currently exploring a little bit of everything - from machine learning and AI to software development and IT. Over my high school and college experience, I've gained a strong background in CS fundamentals and full-stack development, and am now currently studying ML/AI implementations through my internship and the Break Through Tech program. With a natural curiousity in the tech world and how it can impact our lives, I've developed a passion for developing tech solutions that improve the quality of life. Long-term, I hope to work at the intersection of the tech and healthcare fields, to build tools that help people in meaningful ways. 
 
 ---
 
 ## 🧠 Tech Stack
 
 **Languages**  
-![Python](https://img.shields.io/badge/Python-blue?style=flat-square)
-![Java](https://img.shields.io/badge/Java-blue?style=flat-square)
-![JavaScript](https://img.shields.io/badge/JavaScript-blue?style=flat-square)
-![C](https://img.shields.io/badge/C-blue?style=flat-square)
-![SQL](https://img.shields.io/badge/SQL-blue?style=flat-square)  
+![Python](https://img.shields.io/badge/Python-blue?style=flat-square&logo=python)
+![Java](https://img.shields.io/badge/Java-red?style=flat-square&logo=openjdk)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=flat-square&logo=javascript)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql)
 
 **Frameworks & Libraries**  
 ![Pandas](https://img.shields.io/badge/Pandas-blue?style=flat-square)
@@ -100,7 +88,6 @@ Mobile app promoting better sleep using reminders and mood tracking.
 
 - 📫 **Email**: sindhuja.sarabu123@email.com  
 - 💼 [LinkedIn](https://www.linkedin.com/in/sindhujasarabu)  
-- 🌐 (Optional) [Portfolio or Blog](#)
 
 ---
 
