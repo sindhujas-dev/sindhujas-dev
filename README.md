@@ -13,14 +13,14 @@ I'm **Sindhuja Sarabu**, a rising junior majoring in **Information Systems**. I'
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql)
 
-**Frameworks & Libraries**  
-![Pandas](https://img.shields.io/badge/Pandas-blue?style=flat-square)
-![Numpy](https://img.shields.io/badge/Numpy-blue?style=flat-square) 
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-blue?style=flat-square) 
-![LightGBM](https://img.shields.io/badge/LightGBM-blue?style=flat-square) 
-![XGBoost](https://img.shields.io/badge/XGBoost-blue?style=flat-square) 
-![Matplotlib](https://img.shields.io/badge/Matplotlib-blue?style=flat-square) 
-![HuggingFace](https://img.shields.io/badge/HuggingFace-blue?style=flat-square)
+**Frameworks & Libraries**  #4479A1
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=black)
+![LightGBM](https://img.shields.io/badge/LightGBM-669966?style=flat-square&logo=leaflet&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-D13329?style=flat-square&logo=apachespark&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=plotly&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21F?style=flat-square&logo=huggingface&logoColor=black)
 
 **Tools & Platforms**  
 ![Git](https://img.shields.io/badge/Git-blue?style=flat-square)
