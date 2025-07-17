@@ -49,8 +49,13 @@ I'm **Sindhuja Sarabu**, a rising junior majoring in **Information Systems**. I'
 ![Figma](https://img.shields.io/badge/Figma-D6B4FC?style=flat&logo=figma&logoColor=black)
 ![UML](https://img.shields.io/badge/UML-A2D2FF?style=flat&logo=diagramsdotnet&logoColor=black)
 
+---
 
+## Awards & Certifications
 
+- **PCEP - Certified Python Programmer** — Python Institute certification for foundational Python programming including data types, error handling, functions, and control flow
+- **Machine Learning Foundations Certificate (In Progress)** — Pursuing a ML certification through Cornell Tech's Break Through Tech program, focused on ML models, core pipelines, and real-world AI applications
+- **Eagle Scout** — Led a community service project to construct 8 sensory/motor skill boards for elementary students with learning disabilities
 
 ---
 <!--
@@ -76,13 +81,7 @@ Mobile app promoting better sleep using reminders and mood tracking.
 
 ---
 
-## 🏆 Awards & Certifications
 
-- 🦅 **Eagle Scout** — Led accessibility-focused community service project  
-- 📜 **PCEP Certified** — Python Institute certification for foundational Python programming  
-- 🤖 **Break Through Tech AI Fellow** — Selected from 3000+ for an intensive ML/AI program at Cornell Tech
-
----
 
 ## 💡 Interests & Hobbies  
 
@@ -102,10 +101,10 @@ Mobile app promoting better sleep using reminders and mood tracking.
 
 -->
 
-## ✨ Let's Connect!  
+## Let's Connect!  
 
-- 📫 **Email**: sindhuja.sarabu123@email.com  
-- 💼 [LinkedIn](https://www.linkedin.com/in/sindhujasarabu)  
+- **Email**: sindhuja.sarabu123@gmail.com  
+- **LinkedIn**: [linkedin.com/in/sindhujasarabu](https://www.linkedin.com/in/sindhujasarabu)  
 
 ---
 
