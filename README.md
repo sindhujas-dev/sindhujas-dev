@@ -11,7 +11,7 @@ I'm **Sindhuja Sarabu**, a junior majoring in **Information Systems** with a spe
 
 With a natural curiosity in how tech shapes the world around us, I've developed a passion for developing tech solutions that make big impacts - especially in accessibility and health. In the long-term run, I hope to work at the intersection of the tech and healthcare fields, creating tools that meaningfully support and empower people. 
 
-## What I'm Currently Learning/Working On
+## Experience Highlights
 💡 Break Through Tech AI Fellowship @ Cornell Tech
 - I was recently selected to participate in the Break Through Tech AI program, where I’m gaining hands-on experience with machine learning and AI concepts covering the full ML pipeline — from data preprocessing and model evaluation to deep learning and neural networks. It’s been an incredible opportunity to connect with my peers and apply what I’m learning through engaging labs and projects!
 - I have recently just finished my final project, [Airbnb Room Type Classification](https://github.com/sindhujas-dev/airbnb_roomtype_classification), for our Machine Learning Foundations Course. I worked with the Airbnb NYC Listings Dataset to utilize the full ML pipeline and classify room types of Airbnbs. Feel free to check out the link!
