@@ -7,7 +7,7 @@
 <p align="center">🌸────🌿────🐟────🌸────🌿────🐟────🌸────🌿────🐟────🌸────🌿────🐟────🌸</p>
 
 ## About Me
-I'm **Sindhuja Sarabu**, a rising junior majoring in **Information Systems**. I'm currently exploring a little bit of everything - from machine learning and AI to software development and IT. Over my high school and college experience, I've gained a strong background in CS fundamentals and full-stack development, and am now studying ML/AI implementations and real-world applications of tech!
+I'm **Sindhuja Sarabu**, a junior majoring in **Information Systems** with a specialization in Health Informatics at Stony Brook University. I'm currently exploring a little bit of everything - from machine learning and AI to software development and IT. Over my high school and college experience, I've gained a strong background in CS fundamentals and full-stack development, and am now studying ML/AI implementations and real-world applications of tech!
 
 With a natural curiosity in how tech shapes the world around us, I've developed a passion for developing tech solutions that make big impacts - especially in accessibility and health. In the long-term run, I hope to work at the intersection of the tech and healthcare fields, creating tools that meaningfully support and empower people. 
 
@@ -17,10 +17,7 @@ With a natural curiosity in how tech shapes the world around us, I've developed 
 - I have recently just finished my final project, [Airbnb Room Type Classification](https://github.com/sindhujas-dev/airbnb_roomtype_classification), for our Machine Learning Foundations Course. I worked with the Airbnb NYC Listings Dataset to utilize the full ML pipeline and classify room types of Airbnbs. Feel free to check out the link!
 
 💼 Software Engineering Intern @ [NuCulture](https://www.nuculture.us/)
-- I'm grateful to be gaining hands-on experience in software development and AI this summer at NuCulture! My work at the company involves implementing machine learning models, LLM-based rules, and AI-driven classification systems to support the company's accounting platform and help deliver web applications to clients.
-
-🎨 Yarn Color Recommendation System (Personal ML Project)
-- As I continue developing my skills in ML and AI, I've started a mini personal project to build a computer vision model that analyzes yarn images and recommends similar color palettes for crocheters. By combining image preprocessing technqieus with KMeans clustering, the system will identify dominant colors and generate palette suggestions for specific crochet projects. Check out my progress [here!](https://github.com/sindhujas-dev/yarn-color-recommender)
+- I'm grateful to have gained hands-on experience in software development and AI last summer at NuCulture! My work at the company involved implementing machine learning models, LLM-based rules, and AI-driven classification systems to support the company's accounting platform and help deliver web applications to clients.
 
 ## Tech Stack 
 **Languages & Scripting**  
@@ -72,7 +69,7 @@ With a natural curiosity in how tech shapes the world around us, I've developed 
 ## Awards & Certifications
 
 - **PCEP - Certified Python Programmer** — Python Institute certification for foundational Python programming including data types, error handling, functions, and control flow
-- **Machine Learning Foundations Certificate (In Progress)** — Pursuing a ML certification through Cornell Tech's Break Through Tech program, focused on ML models, core pipelines, and real-world AI applications
+- **Machine Learning Foundations Certificate** — Received a ML certification through Cornell Tech's Break Through Tech program, focused on ML models, core pipelines, and real-world AI applications
 - **Eagle Scout** — Led a community service project to construct 8 sensory/motor skill boards for elementary students with learning disabilities
 
 ## Extracurriculars & Interests  
