@@ -7,14 +7,14 @@
 <p align="center">🌸────🌿────🐟────🌸────🌿────🐟────🌸────🌿────🐟────🌸────🌿────🐟────🌸</p>
 
 ## About Me
-I'm **Sindhuja Sarabu**, a junior majoring in **Information Systems** with a specialization in Health Informatics at Stony Brook University. I'm currently exploring a little bit of everything - from machine learning and AI to software development and IT. Over my high school and college experience, I've gained a strong background in CS fundamentals and full-stack development, and am now studying ML/AI implementations and real-world applications of tech!
+I'm **Sindhuja Sarabu**, a junior majoring in **Information Systems** with a specialization in Health Informatics at Stony Brook University. I'm currently exploring a little bit of everything - from machine learning and AI to software development and IT. Over my high school and college experience, I've gained a strong background in IT and CS fundamentals, and am now studying ML/AI implementations and real-world applications of tech!
 
-With a natural curiosity in how tech shapes the world around us, I've developed a passion for developing tech solutions that make big impacts - especially in accessibility and health. In the long-term run, I hope to work at the intersection of the tech and healthcare fields, creating tools that meaningfully support and empower people. 
+With a natural curiosity in how tech shapes the world around us, I've developed a passion for developing tech solutions that make big impacts, especially in accessibility and health. In the long-term run, I hope to work at the intersection of the tech and healthcare fields, creating tools that meaningfully support and empower people. 
 
 ## Experience Highlights
 💡 Break Through Tech AI Fellowship @ Cornell Tech
-- I was recently selected to participate in the Break Through Tech AI program, where I’m gaining hands-on experience with machine learning and AI concepts covering the full ML pipeline — from data preprocessing and model evaluation to deep learning and neural networks. It’s been an incredible opportunity to connect with my peers and apply what I’m learning through engaging labs and projects!
-- I have recently just finished my final project, [Airbnb Room Type Classification](https://github.com/sindhujas-dev/airbnb_roomtype_classification), for our Machine Learning Foundations Course. I worked with the Airbnb NYC Listings Dataset to utilize the full ML pipeline and classify room types of Airbnbs. Feel free to check out the link!
+- Over the past year, I participated in the Break Through Tech (BTT) AI program, where I gained hands-on experience with machine learning and AI concepts covering the full ML pipeline — from data preprocessing and model evaluation to deep learning and neural networks. It’s been an incredible opportunity to connect with my peers and apply what I’m learning through engaging labs and projects!
+- I completed a final project: [Airbnb Room Type Classification](https://github.com/sindhujas-dev/airbnb_roomtype_classification), for our Machine Learning Foundations Course. I worked with the Airbnb NYC Listings Dataset to utilize the full ML pipeline and classify room types of Airbnbs. Feel free to check out the link!
 
 💼 Software Engineering Intern @ [NuCulture](https://www.nuculture.us/)
 - I'm grateful to have gained hands-on experience in software development and AI last summer at NuCulture! My work at the company involved implementing machine learning models, LLM-based rules, and AI-driven classification systems to support the company's accounting platform and help deliver web applications to clients.
